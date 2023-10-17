@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently studying Computer Science at HSR / OST  
+- I'm currently working as a Frontend Engineer @ OST.ch
 
 <!--
 **devcylenz/devcylenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
